@@ -1,0 +1,18 @@
+## Interface: 11200
+## Title: SkateAlongInfo
+## Author: FreeHongKongMMO
+## Notes: An addon that displays player position as color
+## Version: 1.0
+## RequiredDeps:
+## OptionalDeps: Ace3, LibDataBroker-1.1, LibCompress
+## SavedVariables:
+
+embeds.xml
+libs\HereBeDragons\HereBeDragons-2.0.lua
+libs\HereBeDragons\HereBeDragons-Pins-2.0.lua
+libs\HereBeDragons\HereBeDragons-Migrate.lua
+
+#libs\HereBeDragons-1.0\HereBeDragons-1.0.lua
+
+SkateAlongInfo.lua
+
